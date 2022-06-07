@@ -11,12 +11,11 @@
 body {
     position: absolute;
     background-attachment: fixed;
-    background-image: url(/img/1_one_piece___1000_episodios-17673799.jpg);
+    background-image: url(img/1_one_piece___1000_episodios-17673799.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
-
 
 .main {
     display: flex;
@@ -51,7 +50,8 @@ body {
     height: 344px;
     left: 860px;
     top: 140px;
-    background-image: url(/img/luff-removebg-preview.png);
+    /* background-image: url(/img/luff-removebg-preview.png); */
+    background-image: url(img/luff-removebg-preview.png);
     background-repeat: no-repeat;
     background-color: rgb(255, 255, 255);
     border-radius: 24px;
